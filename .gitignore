@@ -74,7 +74,7 @@ build
 .build_release/*
 distribute/*
 *.testbin
-*.bin
+#*.bin
 python/caffe/proto/
 cmake_build
 .cmake_build
